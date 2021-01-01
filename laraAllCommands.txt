@@ -9,5 +9,7 @@ Step:
 6. Run php artisan key:generate
 7. Run php artisan migrate
 8. Run php artisan serve
+9. Run php artisan make:request userRequest
+10. Run php artisan make:controller userController
 
 https://blog.quickadminpanel.com/list-of-21-artisan-make-commands-with-parameters/
